@@ -6,7 +6,7 @@
 
 In this exercise you will apply:
 
-- Array iteration technique
+- Array iteration techniques
 - Using functions to manipulate and transform arrays
 
 ## Introduction
